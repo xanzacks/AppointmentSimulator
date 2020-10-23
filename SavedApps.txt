@@ -1,0 +1,3 @@
+D Daily test 2020-10-15
+O Onetime test 2020-10-15
+M Monthly test 2020-10-15
